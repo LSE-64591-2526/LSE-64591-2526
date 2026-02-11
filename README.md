@@ -11,7 +11,7 @@ Back home in the Philippines, I co-pioneered the award-winning **GRIND (Grassroo
 | Degree | Institution | Year |
 |--------|------------|------|
 | 🎓 MSc Applied Social Data Science | London School of Economics and Political Science | 2025–2026 |
-| 🎓 Background in Applied Mathematics & Econometrics | | |
+| 🎓 Background in Applied Mathematics & Econometrics | University of the Philippines | |
 
 ---
 
