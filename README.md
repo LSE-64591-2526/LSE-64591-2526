@@ -10,7 +10,7 @@ Back home in the Philippines, I co-pioneered the award-winning **GRIND (Grassroo
 
 | Degree | Institution | Year |
 |--------|------------|------|
-| 🎓 MSc Applied Social Data Science | London School of Economics and Political Science | 2024–2025 |
+| 🎓 MSc Applied Social Data Science | London School of Economics and Political Science | 2025–2026 |
 | 🎓 Background in Applied Mathematics & Econometrics | | |
 
 ---
@@ -28,7 +28,7 @@ Back home in the Philippines, I co-pioneered the award-winning **GRIND (Grassroo
 
 **Data Science & Methods**
 
-`Double Principal Compenent Analysis` · `Machine Learning` · `Spatial Analysis` · `Causal Inference` · `Network Analysis` · `Econometrics` · `Survey Design` · `Maximum Entropy Bootstrapping`
+`Double Principal Component Analysis` · `Machine Learning` · `Spatial Analysis` · `Causal Inference` · `Network Analysis` · `Econometrics` · `Survey Design` · `Maximum Entropy Bootstrapping`
 
 ---
 
@@ -51,7 +51,7 @@ I have **8 peer-reviewed publications** spanning innovation systems, regional de
 
 ## 🏆 Selected Highlights
 
-- 🇬🇧 **Chevening Scholar** (UK Government Scholarship, 2024–2025)
+- 🇬🇧 **Chevening Scholar** (UK Government Scholarship, 2025–2026)
 - 🏅 **GRIND Program** — Award-winning grassroots innovation initiative co-pioneered at DOST XI
 - 🌏 **International Collaborations** — UNESCO, Asian Productivity Organization (APO)
 - 🗺️ **Fieldwork** — Documented traditional knowledge across conflict-affected communities in Mindanao
